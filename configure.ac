@@ -2145,6 +2145,7 @@ while test -n "$drivers"; do
 	APPLE)
 		# All Apple printers
 		P_DEVS0="$P_DEVS0 $APPLE_DEVS"
+		;;
         BMP)
                 # BMP file format
                 F_DEVS0="$F_DEVS0 $BMP_DEVS"
