@@ -5646,6 +5646,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\devices\gdevadmp.c"
+				>
+			</File>
+			<File
 				RelativePath="..\devices\gdevatx.c"
 				>
 			</File>
